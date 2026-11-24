@@ -16,3 +16,5 @@ A lightweight, static course portal built for teachers to easily organize and ho
 ├── script.js       # Dynamic JSON loader and UI generator
 └── data.json       # Course content, units, chapters, and links
 ```
+
+Course content and structure provided by Micael Conway
