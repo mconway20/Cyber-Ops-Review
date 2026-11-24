@@ -1,4 +1,4 @@
-# Cyber Ops — Class Portal & Resource Hub
+# Cyber Ops Class Portal & Resource Hub
 
 The official course portal and resource hub for **Cyber Ops**, organizing unit presentations, video lessons, teaching guides, and interactive review games (Gimkit & Wayground).
 
