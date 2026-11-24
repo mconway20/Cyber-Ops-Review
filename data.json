@@ -8,21 +8,21 @@
       {
         "code": "1.1",
         "title": "Network Types and Topologies",
-        "slides": "https://drive.google.com/open?id=10jvuFlW_mI9NUNBVlEim6G852UX45nd9GjAvPE0X5_0&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=10jvuFlW_mI9NUNBVlEim6G852UX45nd9GjAvPE0X5_0",
         "reviewGame": "https://wayground.com/admin/quiz/68a23b3da132fb40de302ac8",
         "videos": "https://drive.google.com/drive/u/0/folders/1qFgy-_ly9MAalK9g3FYEgp5yiSGPfH7-"
       },
       {
         "code": "1.2",
         "title": "OSI and TCP/IP Models",
-        "slides": "https://drive.google.com/open?id=1-4Mbda0aZzrlV4JSXrn0c3WSHPhKRIbMmVxSAp79VcY&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1-4Mbda0aZzrlV4JSXrn0c3WSHPhKRIbMmVxSAp79VcY",
         "reviewGame": "https://wayground.com/admin/quiz/68aef6f10786e36f6c0c3f06",
         "videos": "https://drive.google.com/drive/u/0/folders/1m2ozTbkvmwpT_PDZnwgdouu0sEAKRlge"
       },
       {
         "code": "1.3",
         "title": "Troubleshooting Methodology",
-        "slides": "https://drive.google.com/open?id=1_I3qKx5eE9osBSO5fWftXmKssug-BtpoPL_U_IFj-Lk&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1_I3qKx5eE9osBSO5fWftXmKssug-BtpoPL_U_IFj-Lk",
         "reviewGame": "https://wayground.com/admin/quiz/68af4c9beeb6e31cd689739a?fromPage=my-library-v2",
         "videos": "https://drive.google.com/drive/u/0/folders/17nSoUFG6HGWa3dhJxio9bO5v8fayk_il"
       }
@@ -37,44 +37,44 @@
       {
         "code": "2.1",
         "title": "Layer 1 Hardware 1",
-        "slides": "https://drive.google.com/open?id=1HcrgqQ-XbKaLMO8KGeA32qLKuVaf4q-tnu8SPnT2H8Y&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1HcrgqQ-XbKaLMO8KGeA32qLKuVaf4q-tnu8SPnT2H8Y",
         "reviewGame": "https://wayground.com/admin/quiz/68c98e06f134083ba915397d",
-        "videos": "https://drive.google.com/drive/u/0/folders/1y5fLbAQYkHFYiiqosSVzUCxRq8Cyyx1P&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1y5fLbAQYkHFYiiqosSVzUCxRq8Cyyx1P"
       },
       {
         "code": "2.2",
         "title": "Layer 1 Hardware 2",
-        "slides": "https://drive.google.com/open?id=1xwC9q3nEGLt3SAvVJjIuR8yCZx7Px7qwy26Si8DJVVA&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1xwC9q3nEGLt3SAvVJjIuR8yCZx7Px7qwy26Si8DJVVA",
         "reviewGame": "https://wayground.com/admin/quiz/68c99e85c3de12af34cc6cc5",
-        "videos": "https://drive.google.com/drive/u/0/folders/1zsTQjpf9_CV_wgy7gT2ysgiPVIq0is2A&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1zsTQjpf9_CV_wgy7gT2ysgiPVIq0is2A"
       },
       {
         "code": "2.3",
         "title": "Layer 1 Hardware 3",
-        "slides": "https://drive.google.com/open?id=1d01afW5H1jdnBQSWrL6prgZoWPz-zql5iEaXagBxVdc&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1d01afW5H1jdnBQSWrL6prgZoWPz-zql5iEaXagBxVdc",
         "reviewGame": "https://wayground.com/admin/quiz/68c9bc168def29f466f33eb2",
-        "videos": "https://drive.google.com/drive/u/0/folders/13WQpUDPs_1C7BAKjw9s9ylcJKsqHqlrv&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/13WQpUDPs_1C7BAKjw9s9ylcJKsqHqlrv"
       },
       {
         "code": "2.4",
         "title": "Layer 2 Hardware",
-        "slides": "https://drive.google.com/open?id=1IHnNVsW3RDW1drcR9eTjAkMu02jbfA5DrHl9QamPgE4&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1IHnNVsW3RDW1drcR9eTjAkMu02jbfA5DrHl9QamPgE4",
         "reviewGame": "https://wayground.com/admin/quiz/68caf9a7e053caa9c64b3d26",
-        "videos": "https://drive.google.com/drive/u/0/folders/14LCJ4McGn_2dSewHSNSFwm9kKekzH7mU&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/14LCJ4McGn_2dSewHSNSFwm9kKekzH7mU"
       },
       {
         "code": "2.5",
         "title": "Layer 3 Hardware",
-        "slides": "https://drive.google.com/open?id=1ERGRwSmrQoWNkxgAaCyhjIpgHjj-iSineNK9J73UMwU&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1ERGRwSmrQoWNkxgAaCyhjIpgHjj-iSineNK9J73UMwU",
         "reviewGame": "https://wayground.com/admin/quiz/68cb0166c727be548a2941bf",
-        "videos": "https://drive.google.com/drive/u/0/folders/1Lci46YU823TJFqjkB0CeIqe_jA3tCmHJ&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1Lci46YU823TJFqjkB0CeIqe_jA3tCmHJ"
       },
       {
         "code": "2.6",
         "title": "Internet Access",
-        "slides": "https://drive.google.com/open?id=1YpsYjpURdIbxDHqHn2ziLVAdiXY6h7Pm0dQTwBznkSI&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1YpsYjpURdIbxDHqHn2ziLVAdiXY6h7Pm0dQTwBznkSI",
         "reviewGame": "https://wayground.com/admin/quiz/68cbf5ffd55509bf780f2a8f",
-        "videos": "https://drive.google.com/drive/u/0/folders/1pOuyhsA5VSblMytxXXU3D-gsqrvjSAwd&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1pOuyhsA5VSblMytxXXU3D-gsqrvjSAwd"
       }
     ]
   },
@@ -87,30 +87,30 @@
       {
         "code": "3.1",
         "title": "SOHO Architecture",
-        "slides": "https://drive.google.com/open?id=1uGcaYg6XheB51Nd21p-b47WhSTCx6FPh2R7azALSSoY&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1uGcaYg6XheB51Nd21p-b47WhSTCx6FPh2R7azALSSoY",
         "reviewGame": "https://wayground.com/admin/quiz/68dff72c83900b6f63c22117",
         "videos": "https://drive.google.com/drive/u/0/folders/1hYldPiWakiD53GSd9AWgsOGLUzZ5r0j-"
       },
       {
         "code": "3.2",
         "title": "Enterprise LANs",
-        "slides": "https://drive.google.com/open?id=1LptSmPDxj-SqyC_A5pgYcQNZb_e7vnRC-gfaKPcN12k&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1LptSmPDxj-SqyC_A5pgYcQNZb_e7vnRC-gfaKPcN12k",
         "reviewGame": "https://wayground.com/admin/quiz/68e4ff5b3cf9a6f93f3fb615",
-        "videos": "https://drive.google.com/drive/u/0/folders/1C9UHPo0ALywbQzrGBcHeLAOSaBIKazJB&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1C9UHPo0ALywbQzrGBcHeLAOSaBIKazJB"
       },
       {
         "code": "3.3",
         "title": "Enterprise WANs",
-        "slides": "https://drive.google.com/open?id=1RkZ3TeZLV1Y8LwUptGLh6MmeLBmWl6HyCf9JFYxBE-0&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1RkZ3TeZLV1Y8LwUptGLh6MmeLBmWl6HyCf9JFYxBE-0",
         "reviewGame": "https://wayground.com/admin/quiz/68e6478ba6db35b48e2af2b4",
-        "videos": "https://drive.google.com/drive/u/0/folders/1ACRGJ1Q-s-5cTP-ciKLLplZkQ4Pq3r-f&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1ACRGJ1Q-s-5cTP-ciKLLplZkQ4Pq3r-f"
       },
       {
         "code": "3.4",
         "title": "Intro to CPT",
-        "slides": "https://drive.google.com/open?id=1KH28wY43ZtOF5Wk44UPzooCdNgvf_YHiVp2sxpb0EB0&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1KH28wY43ZtOF5Wk44UPzooCdNgvf_YHiVp2sxpb0EB0",
         "reviewGame": "",
-        "videos": "https://drive.google.com/drive/u/0/folders/1qg5JPQ9zB3byq5PRFL0y1MbP-e-XwDrh&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1qg5JPQ9zB3byq5PRFL0y1MbP-e-XwDrh"
       }
     ]
   },
@@ -123,37 +123,37 @@
       {
         "code": "4.1",
         "title": "IPv4, Classful Addressing & NAT",
-        "slides": "https://drive.google.com/open?id=1CqzmF7jXJnE2JK1clia1FIAsRp35s2ZSQxCw64O9lYI&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1CqzmF7jXJnE2JK1clia1FIAsRp35s2ZSQxCw64O9lYI",
         "reviewGame": "https://wayground.com/admin/quiz/6903885223df90d73a7b38fb",
-        "videos": "https://drive.google.com/drive/u/0/folders/1TekxGWCGOq1EXh1DnS6dG-JIs5sQKlpr&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1TekxGWCGOq1EXh1DnS6dG-JIs5sQKlpr"
       },
       {
         "code": "4.2",
         "title": "CIDR",
-        "slides": "https://drive.google.com/open?id=1qG6unTZgILEfsAUKMhPOeRHF0vjPL6UTDAhyMkuHarI&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1qG6unTZgILEfsAUKMhPOeRHF0vjPL6UTDAhyMkuHarI",
         "reviewGame": "https://wayground.com/admin/quiz/69038eb6e84cc223dd84a132",
-        "videos": "https://drive.google.com/drive/u/0/folders/1UFVDo45L6qa_ArfSqCYzbOY3ssNVM4x1&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1UFVDo45L6qa_ArfSqCYzbOY3ssNVM4x1"
       },
       {
         "code": "4.3",
         "title": "DHCP",
-        "slides": "https://drive.google.com/open?id=1AjnuSnIaNVPhDz6H4IenmhH2dQ3fPyoIy-O6bskxVXM&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1AjnuSnIaNVPhDz6H4IenmhH2dQ3fPyoIy-O6bskxVXM",
         "reviewGame": "https://wayground.com/admin/quiz/6903913daf1c9683bfce2f09",
-        "videos": "https://drive.google.com/drive/u/0/folders/1wqhSbH9d-aMbFQlrd-Q2RJxqXUAVP9Bq&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1wqhSbH9d-aMbFQlrd-Q2RJxqXUAVP9Bq"
       },
       {
         "code": "4.4",
         "title": "IPv6",
-        "slides": "https://drive.google.com/open?id=1YZ_NZaJNP4PmWFEFXQYfu_BoodwkPgWi25mNdSOp0lw&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1YZ_NZaJNP4PmWFEFXQYfu_BoodwkPgWi25mNdSOp0lw",
         "reviewGame": "https://wayground.com/admin/quiz/6908fa975a24f9e1c4b44584",
-        "videos": "https://drive.google.com/drive/u/0/folders/1FMPQ8XRwZLi7yauLK13FRVvl8dqE6KFQ&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1FMPQ8XRwZLi7yauLK13FRVvl8dqE6KFQ"
       },
       {
         "code": "4.5",
         "title": "IP Troubleshooting",
-        "slides": "https://drive.google.com/open?id=14Kz23vBy7l0Qaeec8f7l0UXIEN9ZiKgsjZV8bMfYZBQ&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=14Kz23vBy7l0Qaeec8f7l0UXIEN9ZiKgsjZV8bMfYZBQ",
         "reviewGame": "https://wayground.com/admin/quiz/69090a6a83bbc017803f882f",
-        "videos": "https://drive.google.com/drive/u/0/folders/1kmcwiqH2c0d57S9YEtug7YNwhNNe7Veg&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1kmcwiqH2c0d57S9YEtug7YNwhNNe7Veg"
       }
     ]
   },
@@ -166,23 +166,23 @@
       {
         "code": "5.1",
         "title": "WiFi Concepts",
-        "slides": "https://drive.google.com/open?id=1lsicwq7y7zHn5RcSs-JqMtHrdFBpqX4Zgq2Cc1aKbdM&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1lsicwq7y7zHn5RcSs-JqMtHrdFBpqX4Zgq2Cc1aKbdM",
         "reviewGame": "https://wayground.com/admin/quiz/693064dd7cdccbdda1678d07",
-        "videos": "https://drive.google.com/drive/u/0/folders/1JoDb_7tkH9m3z4u7KxWifS5lWtt_hC8F&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1JoDb_7tkH9m3z4u7KxWifS5lWtt_hC8F"
       },
       {
         "code": "5.2",
         "title": "Wireless Network Planning",
-        "slides": "https://drive.google.com/open?id=1eqLrRRakrgPgFGB8GXfE1jFDxTVjo7nsTygHPlUQZYw&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1eqLrRRakrgPgFGB8GXfE1jFDxTVjo7nsTygHPlUQZYw",
         "reviewGame": "https://wayground.com/admin/quiz/69306b2f5d90ba8e8c9cade5",
-        "videos": "https://drive.google.com/drive/u/0/folders/1h_AKkgmkFa9cuCnX8j-J8pTFWSxitkRl&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1h_AKkgmkFa9cuCnX8j-J8pTFWSxitkRl"
       },
       {
         "code": "5.3",
         "title": "Wireless Network Troubleshooting",
-        "slides": "https://drive.google.com/open?id=1P__LVlKRpA-iSW1OCbqWk-3GJM5XvVHyP2g42HzGCUI&usp=drive_copy",
+        "slides": "https://drive.google.com/open?id=1P__LVlKRpA-iSW1OCbqWk-3GJM5XvVHyP2g42HzGCUI",
         "reviewGame": "https://wayground.com/admin/quiz/69307014fa3431d91fa1cd62",
-        "videos": "https://drive.google.com/drive/u/0/folders/1RupLJ2IogXzVnkL0z0iRpkpvXOMPFZUY&usp=drive_copy"
+        "videos": "https://drive.google.com/drive/u/0/folders/1RupLJ2IogXzVnkL0z0iRpkpvXOMPFZUY"
       }
     ]
   }
