@@ -1,0 +1,136 @@
+:root {
+    --primary: #2563eb;
+    --bg-color: #f8fafc;
+    --card-bg: #ffffff;
+    --text-main: #1e293b;
+    --text-muted: #64748b;
+    --border-color: #e2e8f0;
+}
+
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.site-header {
+    background: var(--card-bg);
+    padding: 2.5rem 1rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.units-grid {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    display: grid;
+    gap: 1.5rem;
+}
+
+.unit-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.unit-card h2 {
+    margin-top: 0;
+    color: var(--primary);
+    font-size: 1.5rem;
+}
+
+.unit-top-links {
+    margin-bottom: 1rem;
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.badge-link {
+    font-size: 0.85rem;
+    padding: 0.35rem 0.75rem;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.badge-link.guide {
+    background: #e0f2fe;
+    color: #0369a1;
+}
+
+.badge-link.review {
+    background: #fef3c7;
+    color: #b45309;
+}
+
+.chapters-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.chapter-dropdown {
+    background: #f8fafc;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: background 0.2s;
+}
+
+.chapter-dropdown[open] {
+    background: #ffffff;
+    border-color: var(--primary);
+}
+
+.chapter-dropdown summary {
+    padding: 0.85rem 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    user-select: none;
+    color: var(--text-main);
+}
+
+.chapter-dropdown summary:hover {
+    background: #f1f5f9;
+}
+
+.chapter-content {
+    padding: 1rem;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.resource-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: opacity 0.2s;
+}
+
+.resource-btn:hover {
+    opacity: 0.85;
+}
+
+.slides-btn { background-color: #3b82f6; color: white; }
+.game-btn { background-color: #10b981; color: white; }
+.video-btn { background-color: #8b5cf6; color: white; }
+
+.site-footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-muted);
+    font-size: 0.875rem;
+}
